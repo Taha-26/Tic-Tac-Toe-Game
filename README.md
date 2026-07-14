@@ -54,7 +54,7 @@ Follow these steps to clone the repository and run the game locally on your syst
 Open your terminal and run the following command to download the project:
 
 ```bash
-git clone https://github.com/Taha-26/Tic-Tac-Toe-Game.git
+git clone https://github.com/AmiinMohammadi/Tic-Tac-Toe-Game.git
 ```
 
 ### 2. Navigate to the Project Directory
